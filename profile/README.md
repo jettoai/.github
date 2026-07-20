@@ -1,5 +1,5 @@
 <h1 align="center">Jetto</h1>
-<p align="center">Native macOS AI tools for people who work with AI all day.</p>
+<p align="center">Jetto, named for 捷途, "the shortcut journey": the shortest path from your intent to your output.<br>Native macOS AI tools for people who work with AI all day.</p>
 
 ## [Jetto](https://jetto.ai) · AI voice input
 
