@@ -5,7 +5,8 @@
 
 Speak, and the polished text is already at your cursor. Around 5x faster than typing, works
 across 50+ apps (Claude, VS Code, Slack, Notion, Gmail), and reads your screen so technical
-terms come out spelled right. Audio stays on your device.
+terms come out spelled right. Screenshots stay on your Mac; voice is processed only to
+transcribe and polish, never stored, never trained on.
 
 **[Download](https://download.jetto.ai/Jetto.dmg)** · [jetto.ai](https://jetto.ai)
 
